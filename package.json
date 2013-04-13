@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Extract method arguments names into array.",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:scottcorgan/args-list.git",
   "keywords": [
     "injector",
     "injection",
