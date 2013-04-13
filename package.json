@@ -1,0 +1,14 @@
+{
+  "name": "args-list",
+  "version": "0.1.0",
+  "description": "Extract method argument names into array.",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+    "injector",
+    "injection",
+    "dependency"
+  ],
+  "author": "Scott Corgan",
+  "license": "BSD"
+}
