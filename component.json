@@ -1,0 +1,9 @@
+{
+  "name": "args-list",
+  "version": "0.3.1",
+  "description": "Extract method arguments names into array.",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
