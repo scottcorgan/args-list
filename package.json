@@ -1,6 +1,6 @@
 {
   "name": "args-list",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Extract method arguments names into array.",
   "main": "index.js",
   "repository": "git@github.com:scottcorgan/args-list.git",
