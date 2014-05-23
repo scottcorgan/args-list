@@ -7,6 +7,9 @@ Extract method arguments names into array. Commonly used for dependency injectio
 ```
 npm install args-list --save
 ```
+```
+component install scottcorgan/args-list
+```
 
 ## Usage
 
