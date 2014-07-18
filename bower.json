@@ -1,0 +1,16 @@
+{
+  "name": "args-list",
+  "main": "index.js",
+  "version": "0.3.2",
+  "homepage": "https://github.com/scottcorgan/args-list",
+  "authors": [
+    "Scott Corgan"
+  ],
+  "description": "Extract method arguments names into array.",
+  "keywords": [
+    "injector",
+    "injection",
+    "dependency"
+  ],
+  "license": "MIT"
+}
