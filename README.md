@@ -10,6 +10,9 @@ npm install args-list --save
 ```
 component install scottcorgan/args-list
 ```
+```
+bower install args-list --save
+```
 
 ## Usage
 

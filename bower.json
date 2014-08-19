@@ -1,7 +1,7 @@
 {
   "name": "args-list",
   "main": "index.js",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "homepage": "https://github.com/scottcorgan/args-list",
   "authors": [
     "Scott Corgan"
